@@ -73,12 +73,9 @@ and click on the connect icon
 3. click on the
 
 ### Program:
-
-![program](s1.jpg)
-
-![program](s2.jpg)
-
-![program](s3.jpg)
+![s1](https://github.com/balar2004/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118791778/50665ea4-3aa9-48c0-b613-8ff8d9b42245)
+![s2](https://github.com/balar2004/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118791778/e51047f7-ac99-42c1-a9f9-17544d1e1b1b)
+![s3](https://github.com/balar2004/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118791778/7aad0265-bef3-448e-8a20-7b8f63fa8a91)
 
 ### Output
 
